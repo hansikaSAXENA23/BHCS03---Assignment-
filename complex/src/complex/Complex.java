@@ -7,7 +7,7 @@ package complex;
 
 /**
  *
- * @author shreyasaxena
+ * @author hansikasaxena
  */
 import java.util.Scanner;
 public class Complex
